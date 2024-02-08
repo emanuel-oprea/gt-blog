@@ -1,4 +1,4 @@
-module blog
+module gt-blog
 
 go 1.21
 
